@@ -1,0 +1,11 @@
+{
+  "classes": [
+    {"id": "C1", "professor": "Dr. A", "type": "theory", "group": "G1"},
+    {"id": "C2", "professor": "Dr. B", "type": "practical", "group": "G2"},
+    {"id": "C3", "professor": "Dr. C", "type": "theory", "group": "G1"},
+    {"id": "C4", "professor": "Dr. A", "type": "practical", "group": "G3"}
+  ],
+  "days": ["Saturday", "Sunday", "Monday", "Tuesday", "Wednesday"],
+  "time_slots": ["8-10", "10-12", "14-16", "16-18"],
+  "rooms": ["A101", "A102", "B201", "B202"]
+}
